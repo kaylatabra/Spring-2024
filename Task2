@@ -1,0 +1,31 @@
+---
+title: "Task 2"
+author: "Kayla Tabra"
+date: "2024-01-25"
+output:
+  html_document:
+    df_print: paged
+---
+# Dachshunds: An Overview
+
+Dachshunds, also known as **wiener dogs**, are a popular breed known for their long bodies and short legs.
+
+## Characteristics of Dachshunds
+
+Dachshunds are *incredibly* unique in their appearance and have a fascinating history. Plus they are very cute and tiny!
+
+### Table: Dachshund Characteristics
+
+| Trait          | Description               |
+|----------------|---------------------------|
+| Body Shape     | Hot dog shaped            |
+| Coat Varieties | Smooth, Longhaired        |
+| Temperament    | Playful, ferocuois, Brave |
+
+#### Dachshund Image
+
+![Dachshund](Dachhund.jpeg) 
+
+#### Learn More
+
+For more information about dachshunds, visit [American Kennel Club](https://www.akc.org/dog-breeds/dachshund/).
